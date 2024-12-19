@@ -44,10 +44,12 @@ header h1 {
 header ul {
     list-style: none;
     display: flex;
+    margin-left: 900px; /* Adjusted for better spacing */
+
 }
 
 header ul li {
-    margin-left: 1.5rem;
+    margin-left: 2.5rem;
 }
 
 header ul li a {
@@ -58,6 +60,11 @@ header ul li a {
 
 header ul li a:hover {
     text-decoration: underline;
+}
+
+main {
+    padding: 2rem;
+    flex: 1;
 }
 
 /* Home Section */
@@ -135,6 +142,10 @@ header ul li a:hover {
     border-radius: 10px;
 }
 
+.about-us div:last-child {
+    flex: 1;
+}
+
 .about-us h2 {
     margin-bottom: 1rem;
     color: #ff69b4;
@@ -169,7 +180,26 @@ header ul li a:hover {
     padding: 1rem;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
 }
+
+.team-member img {
+    width: 100%;
+    max-width: 100px;
+    margin-bottom: 1rem;
+    border-radius: 50%;
+}
+
+.team-member h3 {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+    color: #ff69b4;
+}
+
+.team-member p {
+    color: #555;
+}
+
 
 /* Footer */
 footer {

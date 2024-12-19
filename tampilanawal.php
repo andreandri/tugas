@@ -14,7 +14,7 @@ session_start();
     <header>
         <nav>
             <img src="img/logo.png" alt="Logo" class="logo">
-            <h1>Web Kesehatan UNRIYO</h1>
+            <h1>Kesehatanku</h1>
             <ul>
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about-us">About Us</a></li>
@@ -26,9 +26,9 @@ session_start();
     <main>
     <section id="home">
         <div class="home-text">
-            <h2>Selamat Datang di Web Kesehatan UNRIYO</h2>
-            <p>Web ini menyediakan informasi mengenai kesehatan Anda.</p>
-            <p>Web ini menyediakan informasi yang berguna tentang kesehatan remaja putri.</p>
+            <h2>Selamat Datang di KESEHATANKU</h2>
+            <p>Platform ini menyediakan informasi mengenai kesehatan Anda.</p>
+            <p>Platform ini menyediakan informasi yang berguna tentang kesehatan remaja putri.</p>
             <a href="login.php" class="btn-login">Login</a>
             <a href="register.php" class="btn-register">Daftar Akun</a>
 
@@ -43,9 +43,9 @@ session_start();
           <img tabindex="0" src="img/tentang.jpg" alt="Logo">
         </div>
         <div>
-          <h2 tabindex="0">Tentang Web Kesehatan</h2>
+          <h2 tabindex="0">Tentang Platform Ini</h2>
           <p tabindex="0">
-          Adanya WEB kesehatan ini yang bertujuan untuk membantu, Remaja putri dapat dengan mudah mengakses informasi kesehatan yang relevan dan terkini kapan saja dan dimana saja melalui internet. Website ini menyediakan informasi yang mudah dipahami dan relevan untuk remaja putri, seperti Anemia, Kesehatan Reproduksi, Kesehatan Mental, dan Nutrisi.          </p>
+          Adanya platform KESEHATANKU ini yang bertujuan untuk membantu, Remaja putri dapat dengan mudah mengakses informasi kesehatan yang relevan dan terkini kapan saja dan dimana saja melalui internet. Website ini menyediakan informasi yang mudah dipahami dan relevan untuk remaja putri, seperti Anemia, Kesehatan Reproduksi, Kesehatan Mental, dan Nutrisi.          </p>
           <p tabindex="0">
           Dalam website ini terdapat beberapa topik permasalahan untuk remaja putri. informasi yaitu, pengertian, tanda gejala, dampak, pengobatan dan penyakit.  Website ini dapat meningkatkan kesadaran dan pengetahuan remaja putri tentang pentingnya menjaga kesehatan.
           </p>
